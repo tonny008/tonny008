@@ -60,7 +60,7 @@ http://183.207.248.71:80/cntv/live1/GITV-JS-13/GITV-JS-13
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/hdjsmeiriyouxuan/xbyxtbmryx0827.png" group-title="Kunshan",每日优选
 http://183.207.248.71:80/cntv/live1/hdjsmeiriyouxuan/hdjsmeiriyouxuan
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/JS_jiangsu/hhkksd.png" group-title="Kunshan",江苏卫视超高清
-http://183.207.248.71:80/cntv/live1/JS_jiangsu/JS_jiangsu
+http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-jiangsustv/HD-2500k-1080P-jiangsustv
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/G_JSCS/dfghjhg17.png" group-title="Kunshan",江苏城市
 http://183.207.248.71:80/cntv/live1/G_JSCS/G_JSCS
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/G_JSGG/dfghjhg16.png" group-title="Kunshan",江苏公共
@@ -74,7 +74,7 @@ http://183.207.248.71:80/cntv/live1/G_JSYS/G_JSYS
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/G_JSZY/dfghjhg21.png" group-title="Kunshan",江苏综艺
 http://183.207.248.71:80/cntv/live1/G_JSZY/G_JSZY
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/youmankaton/ertyuiojhg1.png" group-title="Kunshan",优漫卡通
-http://183.207.248.71:80/cntv/live1/youmankaton/youmankaton
+http://183.207.248.71:80/cntv/live1/n-youmankaton/n-youmankaton
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-20M-2160P-chunxiang4kjs/xbyxtbcx.png" group-title="Kunshan",纯享4K
 http://183.207.248.71:80/cntv/live1/HD-20M-2160P-chunxiang4kjs/HD-20M-2160P-chunxiang4kjs
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-15M-2160P-jshuanxiaojc/XBY3XTBHXJC4K.png" group-title="Kunshan",欢笑剧场4K
@@ -122,7 +122,7 @@ http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jilinstv/SD-4000k-576P-jilinst
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jiangxistv/jsdwzbwsjghjkl30.png" group-title="Kunshan",江西卫视
 http://183.207.248.71:80/cntv/live1/jiangxistv/jiangxistv
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/neimenggustv/jsdwzbwsjghjkl10.png" group-title="Kunshan",内蒙古卫视
-http://183.207.248.71:80/cntv/live1/neimenggustv/neimenggustv
+http://183.207.248.71:80/cntv/live1/n-neimenggustv/n-neimenggustv
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/ningxiastv/jsdwzbwsjghjkl17.png" group-title="Kunshan",宁夏卫视
 http://183.207.248.71:80/cntv/live1/n-ningxiastv/n-ningxiastv
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/shanxistv/jsdwzbwsjghjkl22.png" group-title="Kunshan",山西卫视
@@ -220,7 +220,7 @@ http://183.207.248.71:80/cntv/live1/G_JIATINGLC/G_JIATINGLC
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/G_YITANCQ/dfghjhg12.png" group-title="Kunshan",弈坛春秋
 http://183.207.248.71:80/cntv/live1/G_YITANCQ/G_YITANCQ
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-Superwmyx/jsxbyxtbdbss1.png" group-title="Kunshan",哒啵赛事
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-Superwmyx/HD-8000k-1080P-Superwmyx
+http://183.207.248.71:80/cntv/live1/wmyx/wmyx
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/zhifouzf/hhhlsdfg.png" group-title="Kunshan",黑莓影视
 http://183.207.248.71:80/cntv/live1/zhifouzf/zhifouzf
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/baixingsh/dkfhaks.png" group-title="Kunshan",百姓生活
