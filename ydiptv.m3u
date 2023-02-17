@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml"
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml"
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/JS_CCTV1/dgfhgfj1.png" group-title="Kunshan",CCTV-1
 http://183.207.248.71:80/cntv/live1/cctv-1/cctv-1
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-2/hdfaldf_02.png" group-title="Kunshan",CCTV-2
