@@ -14,7 +14,7 @@ http://183.207.248.71:80/cntv/live1/cctv-6/cctv-6
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-7/hdfaldf_08.png" group-title="Kunshan",CCTV7
 http://183.207.248.71:80/cntv/live1/cctv-7/cctv-7
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/JS_CCTV8/hdsfkd.png" group-title="Kunshan",CCTV8
-http://183.207.248.71:80/cntv/live1/cctv-8/cctv-8
+http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-cctv8/HD-2500k-1080P-cctv8
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-news/hdfaldf_10.png" group-title="Kunshan",CCTV9
 http://183.207.248.71:80/cntv/live1/cctv-news/cctv-news
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-10/hdfaldf_11.png" group-title="Kunshan",CCTV10
