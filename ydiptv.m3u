@@ -1,33 +1,33 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml"
-#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/JS_CCTV1/dgfhgfj1.png" group-title="Kunshan",CCTV-1
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/JS_CCTV1/dgfhgfj1.png" group-title="Kunshan",CCTV1
 http://183.207.248.71:80/cntv/live1/cctv-1/cctv-1
-#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-2/hdfaldf_02.png" group-title="Kunshan",CCTV-2
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-2/hdfaldf_02.png" group-title="Kunshan",CCTV2
 http://183.207.248.71:80/cntv/live1/cctv-2/cctv-2
-#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-3/dfgdfs.png" group-title="Kunshan",CCTV-3
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-3/dfgdfs.png" group-title="Kunshan",CCTV3
 http://183.207.248.71:80/cntv/live1/cctv-3/cctv-3
-#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-4/hdfaldf_04.png" group-title="Kunshan",CCTV-4
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-4/hdfaldf_04.png" group-title="Kunshan",CCTV4
 http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4
-#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-5/hdfaldf_05.png" group-title="Kunshan",CCTV-5
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-5/hdfaldf_05.png" group-title="Kunshan",CCTV5
 http://183.207.248.71:80/cntv/live1/cctv-5/cctv-5
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/hdcctv05plus/hdfaldf_06.png" group-title="Kunshan",CCTV5+
 http://183.207.248.71:80/cntv/live1/hdcctv05plus/hdcctv05plus
-#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-6/hdfaldf_07.png" group-title="Kunshan",CCTV-6
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-6/hdfaldf_07.png" group-title="Kunshan",CCTV6
 http://183.207.248.71:80/cntv/live1/cctv-6/cctv-6
-#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-7/hdfaldf_08.png" group-title="Kunshan",CCTV-7
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-7/hdfaldf_08.png" group-title="Kunshan",CCTV7
 http://183.207.248.71:80/cntv/live1/cctv-7/cctv-7
-#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/JS_CCTV8/hdsfkd.png" group-title="Kunshan",CCTV-8
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/JS_CCTV8/hdsfkd.png" group-title="Kunshan",CCTV8
 http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-cctv8/HD-2500k-1080P-cctv8
-#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-news/hdfaldf_10.png" group-title="Kunshan",CCTV-9
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-news/hdfaldf_10.png" group-title="Kunshan",CCTV9
 http://183.207.248.71:80/cntv/live1/cctv-news/cctv-news
-#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-10/hdfaldf_11.png" group-title="Kunshan",CCTV-10
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-10/hdfaldf_11.png" group-title="Kunshan",CCTV10
 http://183.207.248.71:80/cntv/live1/cctv-10/cctv-10
-#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-11/hdfaldf_12.png" group-title="Kunshan",CCTV-11
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-11/hdfaldf_12.png" group-title="Kunshan",CCTV11
 http://183.207.248.71:80/cntv/live1/n-cctv-11/n-cctv-11
-#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-12/hdfaldf_13.png" group-title="Kunshan",CCTV-12
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-12/hdfaldf_13.png" group-title="Kunshan",CCTV12
 http://183.207.248.71:80/cntv/live1/cctv-12/cctv-12
-#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-13/hdfaldf_14.png" group-title="Kunshan",CCTV-13
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-13/hdfaldf_14.png" group-title="Kunshan",CCTV13
 http://183.207.248.71:80/cntv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ
-#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-14/hdfaldf_15.png" group-title="Kunshan",CCTV-14
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-14/hdfaldf_15.png" group-title="Kunshan",CCTV14
 http://183.207.248.71:80/cntv/live1/cctv-14/cctv-14
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GITV-JS-12/hksadfsld.png" group-title="Kunshan",小猪佩奇
 http://183.207.248.71:80/cntv/live1/GITV-JS-12/GITV-JS-12
@@ -35,15 +35,15 @@ http://183.207.248.71:80/cntv/live1/GITV-JS-12/GITV-JS-12
 http://183.207.248.71:80/cntv/live1/GITV-JS-13/GITV-JS-13
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-Supercctv14/khsdfksdfh.png" group-title="Kunshan",黑莓动画
 http://183.207.248.71:80/cntv/live1/donghuawg/donghuawg
-#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-15/hdfaldf_16.png" group-title="Kunshan",CCTV-15
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-15/hdfaldf_16.png" group-title="Kunshan",CCTV15
 http://183.207.248.71:80/cntv/live1/n-cctv-15/n-cctv-15
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/G_CCTV-16-4K-8M/hskdf.png" group-title="Kunshan",CCTV164K
 http://183.207.248.71:80/cntv/live1/G_CCTV-16-4K-8M/G_CCTV-16-4K-8M
-#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-cctv16/hdfaldf181.png" group-title="Kunshan",CCTV-16
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-cctv16/hdfaldf181.png" group-title="Kunshan",CCTV16
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv16/HD-8000k-1080P-cctv16
-#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-4000k-1080P-cctv17/hdfaldf_19.png" group-title="Kunshan",CCTV-17
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-4000k-1080P-cctv17/hdfaldf_19.png" group-title="Kunshan",CCTV17
 http://183.207.248.71:80/cntv/live1/HD-4000k-1080P-cctv17/HD-4000k-1080P-cctv17
-#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-9/xbyxtbcgtv1119.png" group-title="Kunshan",CCTV-9(英)
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-9/xbyxtbcgtv1119.png" group-title="Kunshan",CCTV9(英)
 http://183.207.248.71:80/cntv/live1/n-cctv-9/n-cctv-9
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv19/xinbyxtbcgtn.png" group-title="Kunshan",英语新闻
 http://183.207.248.71:80/cntv/live1/cctvennews/cctvennews
@@ -149,11 +149,11 @@ http://183.207.248.71:80/cntv/live1/n-yntv1/n-yntv1
 http://183.207.248.71:80/cntv/live1/n-xizangstv/n-xizangstv
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/henanstv/jsdwzbwsjghjkl32.png" group-title="Kunshan",河南卫视
 http://183.207.248.71:80/cntv/live1/G_HENAN-CQ/G_HENAN-CQ
-#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jiaoyutv/jsdwzbwsjghjkl04.png" group-title="Kunshan",中国教育-1
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jiaoyutv/jsdwzbwsjghjkl04.png" group-title="Kunshan",中国教育1台
 http://183.207.248.71:80/cntv/live1/n-jiaoyutv/n-jiaoyutv
-#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-4000k-576P-jiaoyutv2/jsdwzbwsjghjkl05.png" group-title="Kunshan",中国教育-2
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-4000k-576P-jiaoyutv2/jsdwzbwsjghjkl05.png" group-title="Kunshan",中国教育2台
 http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jiaoyutv2/SD-4000k-576P-jiaoyutv2
-#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-4000k-576P-jiaoyutv4/jsdwzbwsjghjkl06.png" group-title="Kunshan",中国教育-4
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-4000k-576P-jiaoyutv4/jsdwzbwsjghjkl06.png" group-title="Kunshan",中国教育4台
 http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jiaoyutv4/SD-4000k-576P-jiaoyutv4
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-beijingjishi/0416JSXYXTB001.png" group-title="Kunshan",北京纪实
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi
